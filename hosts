@@ -119,13 +119,11 @@
 127.0.0.1 banzoushifu.com
 127.0.0.1 www.banzouzhijia.cn
 127.0.0.1 makeding.com
-185.199.111.153 fuckdouyin.github.io
 127.0.0.1 www.99banzou.com
 127.0.0.1 www.banzou68.com
 127.0.0.1 www.banzou.name
 127.0.0.1 www.banzouzhongguo.com
 127.0.0.1 banzou.name
-185.199.111.153 iptv-org.github.io
 0.0.0.0 xmaczone.com
 127.0.0.1 www.xmaczone.com
 0.0.0.0 space.mvbox.cn
@@ -165,3 +163,5 @@
 0.0.0.0 imac.hk
 0.0.0.0 heipg.cn
 0.0.0.0 www.macapp.so
+0.0.0.0 osx.cx 
+# windows也可以用
