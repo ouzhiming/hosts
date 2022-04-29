@@ -1,3 +1,19 @@
+
+
+
+# MacWk.com Hosts Start
+
+# DaisyDisk
+127.0.0.1 daisydiskapp.com
+
+# Sublime Text
+127.0.0.1 www.sublimetext.com
+127.0.0.1 sublimetext.com
+127.0.0.1 license.sublimehq.com
+
+# MacWk.com Hosts End
+
+
 ##
 # Host Database
 #
@@ -156,7 +172,6 @@
 0.0.0.0 down.itsvse.com
 0.0.0.0 itsvse.com
 0.0.0.0 www.itsvse.com
-0.0.0.0 www.macintoshrepository.org
 0.0.0.0 www.banzouzhizuo.com
 0.0.0.0 xiaozujian.com
 0.0.0.0 www.xiaozujian.com
@@ -166,10 +181,107 @@
 0.0.0.0 gitclone.com
 0.0.0.0 www.macappbox.com
 0.0.0.0 macappbox.com
-0.0.0.0 www.70cu.com
+0.0.0.0 www.70cu.com 
 0.0.0.0 70cu.com
 0.0.0.0 xitongtiankong.com
 0.0.0.0 www.xitongtiankong.com
 0.0.0.0 mac.orsoon.com
-0.0.0.0 isign.ren
-0.0.0.0 www.isign.ren
+0.0.0.0 download.csdn.net
+0.0.0.0 www.douyin766.com
+0.0.0.0 texpage.com
+0.0.0.0 www.texpage.com
+0.0.0.0 imac.vip
+0.0.0.0 www.imac.vip
+0.0.0.0 www.zgbanzou.com
+0.0.0.0 mp3.zgbanzou.com
+0.0.0.0 www.studioonechina.cn
+0.0.0.0 fontke.com
+0.0.0.0 www.fontke.com
+0.0.0.0 cnprint.org
+0.0.0.0 www.cnprint.org
+0.0.0.0 www.wendangwang.com
+0.0.0.0 www.codeforge.cn
+0.0.0.0 www.macw.cn
+0.0.0.0 www.datouwang.com
+0.0.0.0 www.huiyi8.com
+0.0.0.0 m.datouwang.com
+0.0.0.0 m.huiyi8.com
+0.0.0.0 d.freejx.cn
+0.0.0.0 freejx.cn
+# Topaz Mask AI
+ 127.0.0.1 topazlabs.com
+ 127.0.0.1 auth.topazlabs.com
+ 127.0.0.1 et.topazlabs.com
+# Topaz 系列通用
+# Topaz Studio 2
+# Topaz Adjust AI
+# Topaz DeNoise AI
+# Topaz JPEG to RAW AI
+0.0.0.0 www.afanuo.com
+0.0.0.0 www.dssz.com
+0.0.0.0 www.kuaipng.com
+0.0.0.0 hdymly.com
+0.0.0.0 ssdforum.org
+0.0.0.0 hdcmct.org
+0.0.0.0 dango.ai
+0.0.0.0 www.dango.ai
+0.0.0.0 www.diziyinyuan.com
+0.0.0.0 www.ccsdj.com
+0.0.0.0 www.cdbao.net
+0.0.0.0 www.ape-flac.com
+0.0.0.0 www.kaopan.net
+0.0.0.0 2cycd.com
+0.0.0.0 www.2cycd.com
+#0.0.0.0 www.bilibili.com
+#0.0.0.0 bilibili.com
+#0.0.0.0 passport.bilibili.com
+#0.0.0.0 space.bilibili.com
+#0.0.0.0 account.bilibili.com
+#0.0.0.0 m.bilibili.com
+0.0.0.0 bbs.pcbeta.com
+0.0.0.0 www.hdymly.com
+0.0.0.0 www.hdcmct.org
+127.0.0.1 www.astost.com
+#0.0.0.0 tsdm39.net
+#0.0.0.0 www.36dm.club
+#0.0.0.0 www.tsdm39.net
+#0.0.0.0 36dm.club
+127.0.0.1 astost.com
+0.0.0.0 www.banzou520.com
+0.0.0.0 banzou520.com
+0.0.0.0 www.coder100.com
+0.0.0.0 coder100.com
+0.0.0.0 www.xybanzou.com
+0.0.0.0 xybanzou.com
+0.0.0.0 www.jingpinbz.com
+0.0.0.0 jingpinbz.com
+0.0.0.0 www.bcbanzou.com
+0.0.0.0 bcbanzou.com
+0.0.0.0 www.cdbanzou.com
+0.0.0.0 cdbanzou.com
+0.0.0.0 99banzou.com
+#0.0.0.0 search.bilibili.com
+127.0.0.1 www.astost.com
+127.0.0.1 www.astost.com/bbs/
+0.0.0.0 www.lanmaos.com
+0.0.0.0 lanmaos.com
+0.0.0.0 zyrhires.com
+0.0.0.0 www.zyrhires.com
+0.0.0.0 www.macdo.cn
+0.0.0.0 macdo.cn
+0.0.0.0 www.mac169.com
+0.0.0.0 mac169.com
+0.0.0.0 ai.cnnmtv.com
+127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 hub5emu.sandai.net
+127.0.0.1 upgrade.xl9.xunlei.com
+0.0.0.0 www.moehui.com
+0.0.0.0 moehui.com
+0.0.0.0 accounts.kaleido.ai
+0.0.0.0 o.remove.bg
+0.0.0.0 remove.bg
+0.0.0.0 www.remove.bg
+0.0.0.0 kaleido.ai
+0.0.0.0 www.kaleido.ai
+0.0.0.0 www.unscreen.com
+0.0.0.0 unscreen.com
