@@ -1247,8 +1247,11 @@
 0.0.0.0 www.midishow.com
 0.0.0.0 midishow.com
 0.0.0.0 m.midishow.com
-# 最后一个网站
+# 最后几个网站
 0.0.0.0 m.midifan.com
 0.0.0.0 www.midifan.com
 0.0.0.0 midifan.com
+0.0.0.0 www.zjcool.cn
+0.0.0.0 zjcool.cn
+0.0.0.0 m.zjcool.cn
 # 以后不再更新
