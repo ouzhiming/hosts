@@ -1339,4 +1339,10 @@
 0.0.0.0 abcdef.io
 0.0.0.0 www.abcdef.io
 0.0.0.0 m.abcdef.io
+0.0.0.0 abcdef.com.cn
+0.0.0.0 www.abcdef.com.cn
+0.0.0.0 m.abcdef.com.cn
+0.0.0.0 cdbest.com.cn
+0.0.0.0 www.cdbest.com.cn
+0.0.0.0 m.cdbest.com.cn
 # 以后不再更新
