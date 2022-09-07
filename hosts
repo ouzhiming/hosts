@@ -228,12 +228,12 @@
 0.0.0.0 www.kaopan.net
 0.0.0.0 2cycd.com
 0.0.0.0 www.2cycd.com
-0.0.0.0 www.bilibili.com
-0.0.0.0 bilibili.com
-0.0.0.0 passport.bilibili.com
-0.0.0.0 space.bilibili.com
-0.0.0.0 account.bilibili.com
-0.0.0.0 m.bilibili.com
+#0.0.0.0 www.bilibili.com
+#0.0.0.0 bilibili.com
+#0.0.0.0 passport.bilibili.com
+#0.0.0.0 space.bilibili.com
+#0.0.0.0 account.bilibili.com
+#0.0.0.0 m.bilibili.com
 0.0.0.0 bbs.pcbeta.com
 0.0.0.0 www.hdymly.com
 0.0.0.0 www.hdcmct.org
@@ -252,7 +252,7 @@
 0.0.0.0 www.cdbanzou.com
 0.0.0.0 cdbanzou.com
 0.0.0.0 99banzou.com
-0.0.0.0 search.bilibili.com
+#0.0.0.0 search.bilibili.com
 0.0.0.0 www.lanmaos.com
 0.0.0.0 lanmaos.com
 0.0.0.0 zyrhires.com
@@ -466,7 +466,7 @@
 0.0.0.0 rss.image-line.com
 0.0.0.0 unix50.org
 0.0.0.0 www.unix50.org
-0.0.0.0 game.bilibili.com
+#0.0.0.0 game.bilibili.com
 0.0.0.0 m.netcomponents.com
 0.0.0.0 www.netcomponents.com
 0.0.0.0 netcomponents.com
@@ -783,8 +783,8 @@
 0.0.0.0 rickroll.net
 0.0.0.0 www.rickroll.net
 0.0.0.0 ww1.rickroll.net
-0.0.0.0 www.biligame.com
-0.0.0.0 biligame.com
+#0.0.0.0 www.biligame.com
+#0.0.0.0 biligame.com
 0.0.0.0 www.haoqq.com
 0.0.0.0 haoqq.com
 0.0.0.0 www.cndown.net
@@ -876,7 +876,7 @@
 0.0.0.0 www.666mb.com
 0.0.0.0 kknews.cc
 0.0.0.0 www.kknews.cc
-0.0.0.0 member.bilibili.com
+#0.0.0.0 member.bilibili.com
 0.0.0.0 m.arttag.cn
 0.0.0.0 arttag.cn
 0.0.0.0 www.arttag.cn
@@ -1247,8 +1247,6 @@
 0.0.0.0 www.midishow.com
 0.0.0.0 midishow.com
 0.0.0.0 m.midishow.com
-
-# 最后几个网站
 0.0.0.0 m.midifan.com
 0.0.0.0 www.midifan.com
 0.0.0.0 midifan.com
@@ -1393,4 +1391,3 @@
 0.0.0.0 news.163.co
 0.0.0.0 3g.163.co
 0.0.0.0 m.163.co
-# 以后不再更新
